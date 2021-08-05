@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dda45c48-385f-4f5b-a607-97b5a0a72b26" name="Changes" comment="" />
+    <list default="true" id="dda45c48-385f-4f5b-a607-97b5a0a72b26" name="Changes" comment="Calculator">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,11 +103,34 @@
       <option name="presentableId" value="Default" />
       <updated>1628152163658</updated>
       <workItem from="1628152164990" duration="3987000" />
-      <workItem from="1628178075423" duration="2981000" />
+      <workItem from="1628178075423" duration="5465000" />
     </task>
+    <task id="LOCAL-00001" summary="Calculator">
+      <created>1628182408837</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628182408837</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculator" />
   </component>
 </project>
