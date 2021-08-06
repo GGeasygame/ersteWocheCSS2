@@ -1,6 +1,7 @@
 package com.company;
 import java.util.Scanner;
 
+
 public class Main {
 
     public static void main(String[] args) {
@@ -62,6 +63,8 @@ public class Main {
         Double result = number1 / number2;
         System.out.println("Das Resultat ist: " + result);
     }
+
+
     public static  void areaCalculator() {
         System.out.println("Wählen Sie die Art von Fläche die Sie berechnen möchten... (Kreis, Rechteck, Dreieck, Würfel, Zylinder)");
         Scanner scanner = new Scanner(System.in);
@@ -119,6 +122,8 @@ public class Main {
         Double result = 2 * 3.14159 * radius * height;
         System.out.println("Das Resultat ist: " + result + "cm\u00B2");
     }
+
+
     public static void volumeCalculator() {
         System.out.println("Wählen Sie die Art von Volumen die Sie berechnen möchten... (Würfel, Zylinder)");
         Scanner scanner = new Scanner(System.in);
@@ -145,6 +150,8 @@ public class Main {
         Double result = 3.14159 * radius * radius * height;
         System.out.println("Das Resultat ist: " + result + "cm\u00B3");
     }
+
+
     public static void circumferenceCalculator() {
         System.out.println("Wählen Sie die Art von Umfang die Sie berechnen möchten... (Kreis, Rechteck, Dreieck)");
         Scanner scanner = new Scanner(System.in);
